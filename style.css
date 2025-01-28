@@ -1,0 +1,64 @@
+#myhead {
+  margin-left: 20px;
+  /*display:inline;*/
+  font-size: 50px;
+  font-family: verdana;
+  text-decoration: underline;
+  color: #ff00cc;
+}
+
+.content {
+  margin-top: 50px;
+  display: inline-block;
+}
+.myheading {
+  margin-left: 30px;
+  font-family: verdana;
+  font-weight: bold;
+}
+
+p {
+  font-family: verdana;
+}
+
+.loginbox {
+  /* display: inline-block; */
+  /* margin-top: 50px; */
+  height: 250px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  /* float: right; */
+  background: #e8eefa;
+}
+span {
+  font-family: verdana;
+  font-size: 12px;
+  padding-bottom: 3px;
+}
+
+#acc {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.gap {
+  margin-top: 20px;
+}
+
+.footerlink {
+  margin-top: 30px;
+  display: inline-block;
+}
+.footerbox {
+  /* margin-top: 30px; */
+  display: inline-block;
+  /* float: right; */
+  border: 1px solid blue;
+  width: 25%;
+  height: 100px;
+  background-color: #e8eefa;
+}
+
+#headimg {
+  /*display:inline;*/
+}
