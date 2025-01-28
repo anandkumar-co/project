@@ -1,0 +1,65 @@
+/*
+Custom Css
+*/
+.feature-image {
+  height: 355px;
+  max-width: 266px;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 80%;
+  left: 0;
+  min-width: 200px;
+  list-style: none;
+}
+li:hover .dropdown-menu {
+  display: block;
+}
+li:hover .dropdown-menu a {
+  text-decoration: none;
+}
+.dropdown-menu {
+  padding: 10px;
+  text-decoration: none;
+  line-height: 1.8em;
+}
+#descript,
+#prod-desc {
+  height: 6.5rem;
+  overflow: hidden;
+}
+/* #product-title {
+  height: 2rem;
+  overflow: hidden;
+}
+#prod-title a {
+  height: 2rem;
+  overflow: hidden;
+} */
+#banner-image {
+  mix-blend-mode: multiply;
+  aspect-ratio: 1 1;
+  height: 498px;
+  width: 498px;
+}
+/* 258 344 */
+#body-img {
+  height: 258px;
+  width: 344px;
+}
+#product-detail {
+  height: 450px;
+  width: 450px;
+  aspect-ratio: 1/1;
+}
+#main-detail {
+  aspect-ratio: 1/1;
+  height: 108px;
+  width: 108px;
+}
+
+.suggestion-img {
+  height: 260px;
+  width: 347px;
+}
